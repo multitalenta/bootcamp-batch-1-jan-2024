@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .router-link-exact-active {
+  @apply text-tertier font-bold;
+} */
+
+.button-order {
+  @apply px-6 py-2 rounded-lg bg-highlight border-2 border-highlight text-white font-bold text-lg tracking-wider hover:text-highlight hover:bg-white shadow-lg;
+}

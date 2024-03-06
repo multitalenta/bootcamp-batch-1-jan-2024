@@ -1,0 +1,207 @@
+{
+  "best-products": [
+    {
+      "id": "1",
+      "kode": "K-01",
+      "nama": "Sate Ayam",
+      "harga": 24000,
+      "desc": "Sate Ayam 10 Tusuk Dengan Sambal Kacang",
+      "is_ready": true,
+      "gambar": "sate.jpg"
+    },
+    {
+      "id": "2",
+      "kode": "K-02",
+      "nama": "Nasi Goreng Kampung",
+      "harga": 20000,
+      "desc": "Nasi Goreng Kampung Dengan Telur Mata Sapi",
+      "is_ready": true,
+      "gambar": "nasgor.jpg"
+    },
+    {
+      "id": "3",
+      "kode": "K-03",
+      "nama": "Es Selendang Mayang",
+      "harga": 15000,
+      "desc": "Es Selendang Mayang JADOEL Yang Rasanya Otentik",
+      "is_ready": true,
+      "gambar": "es-selmay.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "kode": "K-01",
+      "nama": "Sate Ayam",
+      "harga": 24000,
+      "desc": "Sate Ayam 10 Tusuk Dengan Sambal Kacang",
+      "is_ready": true,
+      "gambar": "sate.jpg"
+    },
+    {
+      "id": "2",
+      "kode": "K-02",
+      "nama": "Nasi Goreng Kampung",
+      "harga": 20000,
+      "desc": "Nasi Goreng Kampung Dengan Telur Mata Sapi",
+      "is_ready": true,
+      "gambar": "nasgor.jpg"
+    },
+    {
+      "id": "3",
+      "kode": "K-03",
+      "nama": "Es Selendang Mayang",
+      "harga": 15000,
+      "desc": "Es Selendang Mayang JADOEL Yang Rasanya Otentik",
+      "is_ready": true,
+      "gambar": "es-selmay.jpg"
+    },
+    {
+      "id": "4",
+      "kode": "K-04",
+      "nama": "Kopi Susu Gula Aren",
+      "desc": "Kopi Susu Viral Dengan Gula Aren Asli",
+      "harga": 18000,
+      "is_ready": true,
+      "gambar": "kopsuaren.jpg"
+    },
+    {
+      "id": "5",
+      "kode": "K-05",
+      "nama": "Mi Goreng",
+      "desc": "Mi Goreng Nyemek Dengan Bumbu Spesial",
+      "harga": 19000,
+      "is_ready": true,
+      "gambar": "migor.jpg"
+    },
+    {
+      "id": "6",
+      "kode": "K-06",
+      "nama": "Bakso",
+      "desc": "Bakso Komplit Dengan Kaldu ROYCO",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "bakso.jpg"
+    },
+    {
+      "id": "7",
+      "kode": "K-07",
+      "nama": "Mi Ayam Komplit",
+      "desc": "Mi Ayam Spesial, Menggunakan Ayam Kampung",
+      "harga": 21000,
+      "is_ready": true,
+      "gambar": "miayam.jpg"
+    },
+    {
+      "id": "8",
+      "kode": "K-08",
+      "nama": "Mix Platter",
+      "desc": "Mix Snack Yang Berisi Kentang, Sosis",
+      "harga": 17000,
+      "is_ready": true,
+      "gambar": "mixplatter.png"
+    },
+    {
+      "id": "9",
+      "kode": "K-9",
+      "nama": "Kentang Goreng",
+      "desc": "French Fries Dengan Taburan Royco dan Bon Cabe",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "kentang.jpg"
+    }
+  ],
+  "keranjang": [],
+  "pesanan": [
+    {
+      "id": "a781",
+      "nama": "2",
+      "noMeja": "2",
+      "keranjang": [
+        {
+          "id": "65eb",
+          "jumlah_pemesanan": 1,
+          "products": {
+            "id": "2",
+            "kode": "K-02",
+            "nama": "Nasi Goreng Kampung",
+            "harga": 20000,
+            "desc": "Nasi Goreng Kampung Dengan Telur Mata Sapi",
+            "is_ready": true,
+            "gambar": "nasgor.jpg"
+          }
+        },
+        {
+          "id": "0a4a",
+          "jumlah_pemesanan": 1,
+          "products": {
+            "id": "3",
+            "kode": "K-03",
+            "nama": "Es Selendang Mayang",
+            "harga": 15000,
+            "desc": "Es Selendang Mayang JADOEL Yang Rasanya Otentik",
+            "is_ready": true,
+            "gambar": "es-selmay.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3019",
+      "nama": "asep",
+      "noMeja": "9",
+      "keranjang": [
+        {
+          "id": "dac5",
+          "jumlah_pemesanan": 1,
+          "active": true,
+          "products": {
+            "id": "3",
+            "kode": "K-03",
+            "nama": "Es Selendang Mayang",
+            "harga": 15000,
+            "desc": "Es Selendang Mayang JADOEL Yang Rasanya Otentik",
+            "is_ready": true,
+            "gambar": "es-selmay.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3d84",
+      "nama": "nurdin",
+      "noMeja": "6",
+      "keranjang": [
+        {
+          "id": "38ad",
+          "jumlah_pemesanan": 1,
+          "active": true,
+          "products": {
+            "id": "4",
+            "kode": "K-04",
+            "nama": "Kopi Susu Gula Aren",
+            "desc": "Kopi Susu Viral Dengan Gula Aren Asli",
+            "harga": 18000,
+            "is_ready": true,
+            "gambar": "kopsuaren.jpg"
+          }
+        },
+        {
+          "id": "f16f",
+          "jumlah_pemesanan": 2,
+          "keterangan": "setengah matang",
+          "active": true,
+          "products": {
+            "id": "7",
+            "kode": "K-07",
+            "nama": "Mi Ayam Komplit",
+            "desc": "Mi Ayam Spesial, Menggunakan Ayam Kampung",
+            "harga": 21000,
+            "is_ready": true,
+            "gambar": "miayam.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

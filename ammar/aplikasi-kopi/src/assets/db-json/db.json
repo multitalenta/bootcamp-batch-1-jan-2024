@@ -1,0 +1,173 @@
+{
+  "produks-baru": [
+    {
+      "id": "4",
+      "kode": "k-04",
+      "nama": "Kopi Arabika",
+      "harga": 5000,
+      "is_ready": true,
+      "desc": "Kopi arabika, juga dikenal sebagai kopi Arab, kopi semak Arab, atau kopi gunung, adalah spesies dari genus Coffea. Spesies ini diyakini sebagai spesies kopi pertama yang dibudidayakan, dan merupakan kultivar dominan, mewakili sekitar 60% dari produksi kopi global.",
+      "link": {
+        "url": "https://id.wikipedia.org/wiki/Kopi_arabika"
+      },
+      "gambar": "kopiarabika.jpg"
+    },
+    {
+      "id": "5",
+      "kode": "k-05",
+      "nama": "kopi robusta",
+      "harga": 5000,
+      "is_ready": true,
+      "desc": "Kopi Robusta merupakan keturunan beberapa spesies kopi, terutama Coffea canephora. Jenis kopi ini tumbuh baik di ketinggian 400–700 m dpl, temperatur 21-24 °C dengan bulan kering 3-4 bulan secara berturut-turut dan 3-4 kali hujan kiriman. Kualitas buah lebih rendah dari Arabika dan Liberika.",
+      "link": {
+        "url": "https://id.wikipedia.org/wiki/Kopi_Robusta"
+      },
+      "gambar": "kopirobusta.jpg"
+    },
+    {
+      "id": "6",
+      "kode": "k-06",
+      "nama": "kopi amerikano",
+      "harga": 5000,
+      "is_ready": true,
+      "desc": "Caffè Americano atau Amerikano adalah minuman kopi yang dibuat dengan mencampurkan satu seloki espresso dengan air panas. Air panas yang digunakan dalam minuman ini adalah sebanyak 6 hingga 8 ons.",
+      "link": {
+        "url": "https://id.wikipedia.org/wiki/Caff%C3%A8_Americano"
+      },
+      "gambar": "kopiamerikano.jpg"
+    }
+  ],
+  "best-produks": [
+    {
+      "id": "1",
+      "kode": "k-01",
+      "nama": "kopi toraja",
+      "harga": 10000,
+      "is_ready": true,
+      "desc": "Kopi toraja adalah biji kopi yang berasal dari daerah perbukitan di Sulawesi Selatan. Daerahnya yang tinggi sekitar 1700mdpl bisa dibilang memiliki nutrisi baik untuk kopi arabika tumbuh subur.",
+      "link": {
+        "url": "https://ottencoffee.co.id/majalah/kopi-toraja"
+      },
+      "gambar": "kopitoraja.jpg"
+    },
+    {
+      "id": "2",
+      "kode": "k-02",
+      "nama": "kopi luwak",
+      "harga": 10000,
+      "is_ready": true,
+      "desc": "Kopi luwak adalah seduhan kopi menggunakan biji kopi yang diambil dari sisa kotoran luwak/musang kelapa. Biji kopi ini diyakini memiliki rasa yang berbeda setelah dimakan dan melewati saluran pencernaan luwak.",
+      "link": {
+        "url": "https://id.wikipedia.org/wiki/Kopi_luwak"
+      },
+      "gambar": "kopiluwak.jpg"
+    },
+    {
+      "id": "3",
+      "kode": "k-03",
+      "nama": "kopi lampung",
+      "harga": 10000,
+      "is_ready": true,
+      "desc": "Kopi Lampung adalah varietas kopi yang dikembangkan di Provinsi Lampung, Indonesia. Robusta Lampung adalah salah satu robusta unggulan Indonesia yang dipasarkan hingga ke mancanegara.",
+      "link": {
+        "url": "https://id.wikipedia.org/wiki/Kopi_Lampung"
+      },
+      "gambar": "kopilampung.jpg"
+    }
+  ],
+  "produks": [
+    {
+      "id": "2",
+      "kode": "k-02",
+      "nama": "Kopi Luwak",
+      "harga": 10000,
+      "is_ready": true,
+      "desc": "Kopi luwak adalah seduhan kopi menggunakan biji kopi yang diambil dari sisa kotoran luwak/musang kelapa. Biji kopi ini diyakini memiliki rasa yang berbeda setelah dimakan dan melewati saluran pencernaan luwak.",
+      "link": {
+        "url": "https://id.wikipedia.org/wiki/Kopi_luwak"
+      },
+      "gambar": "kopiluwak.jpg"
+    },
+    {
+      "id": "3",
+      "kode": "k-03",
+      "nama": "Kopi Lampung",
+      "harga": 10000,
+      "is_ready": true,
+      "desc": "Kopi Lampung adalah varietas kopi yang dikembangkan di Provinsi Lampung, Indonesia. Robusta Lampung adalah salah satu robusta unggulan Indonesia yang dipasarkan hingga ke mancanegara.",
+      "link": {
+        "url": "https://id.wikipedia.org/wiki/Kopi_Lampung"
+      },
+      "gambar": "kopilampung.jpg"
+    },
+    {
+      "id": "4",
+      "kode": "k-04",
+      "nama": "Kopi Arabika",
+      "harga": 5000,
+      "is_ready": true,
+      "desc": "Kopi arabika, juga dikenal sebagai kopi Arab, kopi semak Arab, atau kopi gunung, adalah spesies dari genus Coffea. Spesies ini diyakini sebagai spesies kopi pertama yang dibudidayakan, dan merupakan kultivar dominan, mewakili sekitar 60% dari produksi kopi global.",
+      "link": {
+        "url": "https://id.wikipedia.org/wiki/Kopi_arabika"
+      },
+      "gambar": "kopiarabika.jpg"
+    },
+    {
+      "id": "5",
+      "kode": "k-05",
+      "nama": "Kopi Robusta",
+      "harga": 5000,
+      "is_ready": true,
+      "desc": "Kopi Robusta merupakan keturunan beberapa spesies kopi, terutama Coffea canephora. Jenis kopi ini tumbuh baik di ketinggian 400–700 m dpl, temperatur 21-24 °C dengan bulan kering 3-4 bulan secara berturut-turut dan 3-4 kali hujan kiriman. Kualitas buah lebih rendah dari Arabika dan Liberika.",
+      "link": {
+        "url": "https://id.wikipedia.org/wiki/Kopi_Robusta"
+      },
+      "gambar": "kopirobusta.jpg"
+    }
+  ],
+  "keranjangs": [
+    {
+      "id": "b5ef",
+      "jumlah_pemesanan": 1,
+      "keterangan": "sadas",
+      "produks": {
+        "id": "4",
+        "kode": "k-04",
+        "nama": "Kopi Arabika",
+        "harga": 5000,
+        "is_ready": true,
+        "desc": "Kopi arabika, juga dikenal sebagai kopi Arab, kopi semak Arab, atau kopi gunung, adalah spesies dari genus Coffea. Spesies ini diyakini sebagai spesies kopi pertama yang dibudidayakan, dan merupakan kultivar dominan, mewakili sekitar 60% dari produksi kopi global.",
+        "link": {
+          "url": "https://id.wikipedia.org/wiki/Kopi_arabika"
+        },
+        "gambar": "kopiarabika.jpg"
+      }
+    }
+  ],
+  "pesanans": [
+    {
+      "id": "0701",
+      "nama_pemesan": "kobin",
+      "nomer_meja": 21,
+      "keranjangs": [
+        {
+          "id": "5e24",
+          "jumlah_pemesanan": 1,
+          "keterangan": "fd",
+          "produks": {
+            "id": "1",
+            "kode": "k-01",
+            "nama": "Kopi Toraja",
+            "harga": 10000,
+            "is_ready": true,
+            "desc": "Kopi toraja adalah biji kopi yang berasal dari daerah perbukitan di Sulawesi Selatan. Daerahnya yang tinggi sekitar 1700mdpl bisa dibilang memiliki nutrisi baik untuk kopi arabika tumbuh subur.",
+            "link": {
+              "url": "https://ottencoffee.co.id/majalah/kopi-toraja"
+            },
+            "gambar": "kopitoraja.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

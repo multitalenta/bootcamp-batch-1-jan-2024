@@ -1,0 +1,53 @@
+[
+           {
+                        "id": 1,
+                        "image":"../src/assets/img/book/buku1.jpg",
+                        "judul": "Sebuah Seni Untuk Bersikap Bodo Amat",
+                        "penulis": "Ammar",
+                        "penerbit": "rapli",
+                        "tahun": "2001",
+                        "sinopsis":"Harry memulai tahun ketiganya di Hogwarts dengan tidak cukup menyenangkan. Secara ceroboh dia menyihir bibi Merge, kemudian melarikan diri. Di tengah perjalanannya, dia membaca berita tentang kaburnya seorang tawanan berbahaya, Sirius Black, yang dirumorkan ingin membunuhnya. Mr. Weasley kemudian memintanya untuk mengucapkan janji yang aneh, bahwa tak peduli apapun yang dia dengar, dia tidak akan pergi untuk mencari Black. Kebingungan, Harry mengiyakan saja.",
+                        "stok": "100"
+                    },
+                    {
+                        "id": 2,
+                        "image": "../src/assets/img/book/buku1.jpg",
+                        "judul": "Harry Potter2",
+                        "penulis": "Ammar",
+                        "penerbit": "rapli",
+                        "tahun": "2001",
+                        "sinopsis":"sinopsis2",
+                        "stok": 10
+                    },
+                    {
+                        "id": 3,
+                        "image": "../src/assets/img/book/buku1.jpg",
+                        "judul": "Harry Potter3",
+                        "penulis": "Ammar",
+                        "penerbit": "rapli",
+                        "tahun": "2001",
+                        "sinopsis":"sinopsis3",
+                        "stok": 10
+                    },
+                    {
+                        "id": 2,
+                        "image": "../src/assets/img/book/buku1.jpg",
+                        "judul": "Harry Potter4",
+                        "penulis": "Ammar",
+                        "penerbit": "rapli",
+                        "tahun": "2001",
+                        "sinopsis":"sinopsis4",
+                        "stok": 10
+                    },
+                    {
+                        "id": 2,
+                        "image": "../src/assets/img/book/buku1.jpg",
+                        "judul": "Harry Potter5",
+                        "penulis": "Ammar",
+                        "penerbit": "rapli",
+                        "tahun": "2001",
+                        "sinopsis":"sinopsis5",
+                        "stok": 10
+                    }
+  ]
+  
